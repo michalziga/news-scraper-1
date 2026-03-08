@@ -96,8 +96,8 @@ if __name__ == "__main__":
         print("-" * 60)
 
     # Save to pickle file
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    pickle_filename = f"articles_{timestamp}.pkl"
+    timestamp = datetime.now().strftime("%Y%m%d_%H")
+    pickle_filename = f"news_{timestamp}.pkl"
     try:
         with open(pickle_filename, 'wb') as f:
             pickle.dump(articles, f)
