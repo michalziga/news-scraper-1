@@ -5,7 +5,7 @@
     "colab": {
       "provenance": [],
       "authorship_tag": "ABX9TyOAHu8SoXG6GRaJAsyFTQXA",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
