@@ -43,3 +43,4 @@ jobs:
             git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref }}
           else
             echo "No PKL files generated"
+          fi
