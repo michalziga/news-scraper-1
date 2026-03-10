@@ -7,7 +7,7 @@ from datetime import datetime
 keywords = ["war", "Iran", "IRGC", "US", "Israel"]
 
 feeds = [
-    "https://www.csis.org/,
+    "https://www.csis.org/",
     "https://feeds.bbci.co.uk/news/world/rss.xml"
 ]
 
