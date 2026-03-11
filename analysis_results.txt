@@ -1,0 +1,10 @@
+Top 20 Most Frequent Words / Categories / Leaders
+==================================================
+al: 692
+trump: 82
+khamenei: 21
+mojtaba: 17
+donald: 10
+carney: 8
+mark: 7
+bin: 7
